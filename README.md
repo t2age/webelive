@@ -1,5 +1,4 @@
 # About "WebeLive" word
-![WebeLive]()  
   
 When I first started playing with Web Real Time stuff I was using the term "Web Live" to refer to the things that uses the notion of a web in "live" fashion (meaning "real time")...  
   
@@ -12,12 +11,16 @@ b) Web (which is) Alive
 c) Web (in which we) Believe  
   
 **a) Web Live tools -**  
+![WebeLive](img/webelive-001.jpg)  
+  
 Tools to help in real time communication on the web...  
 Human to human text, voice, video in real-time can be very helpfull in many situations, and there are many tools that allow us to explore more the "live" aspect of the Internet...  
 Also, human to human communication is just one part of the Web, today there are more "stuff" connected than there are humans, so, live connections between stuff should also be considered within this category of use...  
   
   
 **b) Web which is "Alive" -**  
+![WebeLive](img/webelive-002.jpg)  
+  
 Web-tools that can have more broader impact on human live (beyond real time communication)...  
 Perhaps, people are just using something around 10% of the power of the Web, and there are lots of easy and simple ways to explore the other, probably, 90%...  
   
@@ -31,6 +34,8 @@ STILL, in my opinion, another BIG STEP FORWARD is unleashed when we start to exp
   
   
 **c) Web that we can Believe -**  
+![WebeLive](img/webelive-003.jpg)  
+  
 Tools to help explore the Person-to-Person aspect of the Internet, for example when two friends are connected by Person-to-Person link, a higher level of trust can be achieved from the point of view of privacy and safety, thus, having a "Web" that we can TRUST, that we can BELIEVE IN...  
   
 One of the reasons we are only using a tiny fraction of the Web power is related to safety and privacy concerns, so that, because we DO NOT TRUST, then, we DON'T USE... it is a self-reinforced meachanism, and because we are not making a GOOD USE of it, we tend to not TRUST IT... it is strange to us...  
